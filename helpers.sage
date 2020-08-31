@@ -5,6 +5,14 @@ def _connected_graphs_upto(n):
             if G.is_connected():
                 yield G
 
+def _iterate_permutations(vertex_set, random_permutations=None):
+    if random_permutations:
+        for x in range(random_permutations):
+            yield Permutations(vertex_set).random_element()
+    else:
+        for pi in Permutations(vertex_set):
+            yield pi
+
 def _has_induced_subgraph(G, graphs_list):
     for H in graphs_list:
         if G.subgraph_search(H, induced=True):

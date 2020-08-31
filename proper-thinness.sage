@@ -35,7 +35,7 @@ def graphs_by_proper_thinness(n, *, minimal_only=True):
 def _is_proper_interval(G):
     return G.is_interval() and not G.subgraph_search(graphs.ClawGraph(), induced=True)
 
-def proper_thinness(G, *, lower_bound=1, certificate=True):
+def proper_thinness(G, *, lower_bound=1, certificate=True, random_permutations=None):
     r""" Calculates the proper thinness of graph G.
 
     TESTS::
@@ -48,9 +48,11 @@ def proper_thinness(G, *, lower_bound=1, certificate=True):
         2
         sage: proper_thinness(graphs.CycleGraph(7).complement(), certificate=False)
         3
+        sage: proper_thinness(graphs.PetersenGraph(), certificate=False, random_permutations=100)
+        5
     """
     min_chi, min_pi, min_partition = +Infinity, [], []
-    for pi in Permutations(G.vertices()):
+    for pi in _iterate_permutations(G.vertices(), random_permutations):
         H = _proper_thinness_create_restrictions_graph(G, pi)
         partition = H.coloring()
         chi = len(partition)

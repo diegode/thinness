@@ -32,7 +32,7 @@ def graphs_by_thinness(n, *, minimal_only=True):
             graphs_dict[k].append(G)
     return graphs_dict
 
-def thinness(G, *, lower_bound=1, certificate=True):
+def thinness(G, *, lower_bound=1, certificate=True, random_permutations=None):
     r""" Calculates the thinness of graph G.
 
     TESTS::
@@ -45,9 +45,11 @@ def thinness(G, *, lower_bound=1, certificate=True):
         2
         sage: thinness(graphs.CycleGraph(7).complement(), certificate=False)
         3
+        sage: thinness(graphs.PetersenGraph(), certificate=False, random_permutations=100)
+        4
     """
     min_chi, min_pi, min_partition = +Infinity, [], []
-    for pi in Permutations(G.vertices()):
+    for pi in _iterate_permutations(G.vertices(), random_permutations):
         H = _thinness_create_restrictions_graph(G, pi)
         partition = H.coloring()
         chi = len(partition)
