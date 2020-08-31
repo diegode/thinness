@@ -193,7 +193,7 @@ We use multiple ways of referencing a graph:
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35692) | ![](https://hog.grinvin.org/GraphImage.action?id=35692&size=160) | `FVSUG` |
 | 7 | X_{87} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35748) | ![](https://hog.grinvin.org/GraphImage.action?id=35748&size=160) | `FVcmW` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35745) | ![](https://hog.grinvin.org/GraphImage.action?id=35745&size=160) | `FVomg` |
-| 7 | \co{X_{88}} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=536) | ![](https://hog.grinvin.org/GraphImage.action?id=536&size=160) | `FW`\_` |
+| 7 | \co{X_{88}} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=536) | ![](https://hog.grinvin.org/GraphImage.action?id=536&size=160) | ``FW`\_`` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35738) | ![](https://hog.grinvin.org/GraphImage.action?id=35738&size=160) | `FWdzo` |
 | 7 | BW_3 |  |  | `FWfQ_` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=21254) | ![](https://hog.grinvin.org/GraphImage.action?id=21254&size=160) | `FWf}g` |
