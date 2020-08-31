@@ -65,12 +65,12 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=30360) | ![](https://hog.grinvin.org/GraphImage.action?id=30360&size=160) | `GEAHrG` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35620) | ![](https://hog.grinvin.org/GraphImage.action?id=35620&size=160) | `GEFdR{` |
 | 8 | bislit cube | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=958) | ![](https://hog.grinvin.org/GraphImage.action?id=958&size=160) | `GEFdrW` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35537) | ![](https://hog.grinvin.org/GraphImage.action?id=35537&size=160) | `GF`zvW` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35537) | ![](https://hog.grinvin.org/GraphImage.action?id=35537&size=160) | ``GF`zvW`` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35607) | ![](https://hog.grinvin.org/GraphImage.action?id=35607&size=160) | `GLfNjw` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35663) | ![](https://hog.grinvin.org/GraphImage.action?id=35663&size=160) | `GNI@~W` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35635) | ![](https://hog.grinvin.org/GraphImage.action?id=35635&size=160) | `GOpR`w` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35635) | ![](https://hog.grinvin.org/GraphImage.action?id=35635&size=160) | ``GOpR`w`` |
 | 8 | X_{121} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35638) | ![](https://hog.grinvin.org/GraphImage.action?id=35638&size=160) | `GOpRdw` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35626) | ![](https://hog.grinvin.org/GraphImage.action?id=35626&size=160) | `GOtB`w` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35626) | ![](https://hog.grinvin.org/GraphImage.action?id=35626&size=160) | ``GOtB`w`` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=19176) | ![](https://hog.grinvin.org/GraphImage.action?id=19176&size=160) | `GPpV~w` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35580) | ![](https://hog.grinvin.org/GraphImage.action?id=35580&size=160) | `GPrZvg` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35564) | ![](https://hog.grinvin.org/GraphImage.action?id=35564&size=160) | `GQNMc[` |
@@ -269,7 +269,7 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36033) | ![](https://hog.grinvin.org/GraphImage.action?id=36033&size=160) | `GEFP\w` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35998) | ![](https://hog.grinvin.org/GraphImage.action?id=35998&size=160) | `GEFUVo` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35988) | ![](https://hog.grinvin.org/GraphImage.action?id=35988&size=160) | `GEJp_S` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36059) | ![](https://hog.grinvin.org/GraphImage.action?id=36059&size=160) | `GERK`g` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36059) | ![](https://hog.grinvin.org/GraphImage.action?id=36059&size=160) | ``GERK`g`` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35968) | ![](https://hog.grinvin.org/GraphImage.action?id=35968&size=160) | `GE_G@s` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35868) | ![](https://hog.grinvin.org/GraphImage.action?id=35868&size=160) | `GEoKT{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36083) | ![](https://hog.grinvin.org/GraphImage.action?id=36083&size=160) | `GEoOdw` |
