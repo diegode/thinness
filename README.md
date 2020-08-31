@@ -97,15 +97,15 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35570) | ![](https://hog.grinvin.org/GraphImage.action?id=35570&size=160) | `GW]V}_` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35545) | ![](https://hog.grinvin.org/GraphImage.action?id=35545&size=160) | `GWdVzo` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35572) | ![](https://hog.grinvin.org/GraphImage.action?id=35572&size=160) | `GWdutW` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35576) | ![](https://hog.grinvin.org/GraphImage.action?id=35576&size=160) | `GWdv|g` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35576) | ![](https://hog.grinvin.org/GraphImage.action?id=35576&size=160) | `GWdv\|g` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35552) | ![](https://hog.grinvin.org/GraphImage.action?id=35552&size=160) | `GWeuzo` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35554) | ![](https://hog.grinvin.org/GraphImage.action?id=35554&size=160) | `GWftbw` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35556) | ![](https://hog.grinvin.org/GraphImage.action?id=35556&size=160) | `GWf|b{` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35556) | ![](https://hog.grinvin.org/GraphImage.action?id=35556&size=160) | `GWf\|b{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35533) | ![](https://hog.grinvin.org/GraphImage.action?id=35533&size=160) | `GWjrs{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35535) | ![](https://hog.grinvin.org/GraphImage.action?id=35535&size=160) | `GWjrt{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35602) | ![](https://hog.grinvin.org/GraphImage.action?id=35602&size=160) | `GWn~r{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35568) | ![](https://hog.grinvin.org/GraphImage.action?id=35568&size=160) | `GWuRds` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35548) | ![](https://hog.grinvin.org/GraphImage.action?id=35548&size=160) | `GWuV|o` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35548) | ![](https://hog.grinvin.org/GraphImage.action?id=35548&size=160) | `GWuV\|o` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35617) | ![](https://hog.grinvin.org/GraphImage.action?id=35617&size=160) | `GXAYuS` |
 | 8 | X_{79} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=1022) | ![](https://hog.grinvin.org/GraphImage.action?id=1022&size=160) | `GXA]Qo` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35623) | ![](https://hog.grinvin.org/GraphImage.action?id=35623&size=160) | `GXwMc{` |
@@ -123,8 +123,8 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35592) | ![](https://hog.grinvin.org/GraphImage.action?id=35592&size=160) | `G]}o}K` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35609) | ![](https://hog.grinvin.org/GraphImage.action?id=35609&size=160) | `G^ZKh{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35653) | ![](https://hog.grinvin.org/GraphImage.action?id=35653&size=160) | `G_jdzo` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35613) | ![](https://hog.grinvin.org/GraphImage.action?id=35613&size=160) | `Gd|b|g` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35611) | ![](https://hog.grinvin.org/GraphImage.action?id=35611&size=160) | `Gd|dng` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35613) | ![](https://hog.grinvin.org/GraphImage.action?id=35613&size=160) | `Gd\|b\|g` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35611) | ![](https://hog.grinvin.org/GraphImage.action?id=35611&size=160) | `Gd\|dng` |
 | 8 | \co{C_8} |  |  | `Gfynjw` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35582) | ![](https://hog.grinvin.org/GraphImage.action?id=35582&size=160) | `GkD~Tk` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35615) | ![](https://hog.grinvin.org/GraphImage.action?id=35615&size=160) | `Gl{s~K` |
@@ -216,8 +216,8 @@ We use multiple ways of referencing a graph:
 | 7 | \co{C_7} |  |  | `F^fJW` |
 | 7 | X_{90} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=20566) | ![](https://hog.grinvin.org/GraphImage.action?id=20566&size=160) | `FbmnG` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35711) | ![](https://hog.grinvin.org/GraphImage.action?id=35711&size=160) | `FckVW` |
-| 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35761) | ![](https://hog.grinvin.org/GraphImage.action?id=35761&size=160) | `Fd|f_` |
-| 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=33696) | ![](https://hog.grinvin.org/GraphImage.action?id=33696&size=160) | `Fd|n_` |
+| 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35761) | ![](https://hog.grinvin.org/GraphImage.action?id=35761&size=160) | `Fd\|f_` |
+| 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=33696) | ![](https://hog.grinvin.org/GraphImage.action?id=33696&size=160) | `Fd\|n_` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=19170) | ![](https://hog.grinvin.org/GraphImage.action?id=19170&size=160) | `FkN~o` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35733) | ![](https://hog.grinvin.org/GraphImage.action?id=35733&size=160) | `FlR[O` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36149) | ![](https://hog.grinvin.org/GraphImage.action?id=36149&size=160) | `G?WNSw` |
@@ -248,21 +248,21 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35938) | ![](https://hog.grinvin.org/GraphImage.action?id=35938&size=160) | `GCFFyO` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35940) | ![](https://hog.grinvin.org/GraphImage.action?id=35940&size=160) | `GCFFyS` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35986) | ![](https://hog.grinvin.org/GraphImage.action?id=35986&size=160) | `GCFFzw` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35978) | ![](https://hog.grinvin.org/GraphImage.action?id=35978&size=160) | `GCFF|k` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35978) | ![](https://hog.grinvin.org/GraphImage.action?id=35978&size=160) | `GCFF\|k` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35950) | ![](https://hog.grinvin.org/GraphImage.action?id=35950&size=160) | `GCFmH[` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36028) | ![](https://hog.grinvin.org/GraphImage.action?id=36028&size=160) | `GCF}jS` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35916) | ![](https://hog.grinvin.org/GraphImage.action?id=35916&size=160) | `GCZo^?` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36135) | ![](https://hog.grinvin.org/GraphImage.action?id=36135&size=160) | `GC[OfO` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35904) | ![](https://hog.grinvin.org/GraphImage.action?id=35904&size=160) | `GCcNR{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35870) | ![](https://hog.grinvin.org/GraphImage.action?id=35870&size=160) | `GCkMBw` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35890) | ![](https://hog.grinvin.org/GraphImage.action?id=35890&size=160) | `GCwF|K` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35890) | ![](https://hog.grinvin.org/GraphImage.action?id=35890&size=160) | `GCwF\|K` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35864) | ![](https://hog.grinvin.org/GraphImage.action?id=35864&size=160) | `GCwMDw` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35876) | ![](https://hog.grinvin.org/GraphImage.action?id=35876&size=160) | `GCwMVw` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35902) | ![](https://hog.grinvin.org/GraphImage.action?id=35902&size=160) | `GC{MZo` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35974) | ![](https://hog.grinvin.org/GraphImage.action?id=35974&size=160) | `GDA^uc` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36004) | ![](https://hog.grinvin.org/GraphImage.action?id=36004&size=160) | `GDE}]_` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36184) | ![](https://hog.grinvin.org/GraphImage.action?id=36184&size=160) | `GDmVR{` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36039) | ![](https://hog.grinvin.org/GraphImage.action?id=36039&size=160) | `GE?||o` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36039) | ![](https://hog.grinvin.org/GraphImage.action?id=36039&size=160) | `GE?\|\|o` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36008) | ![](https://hog.grinvin.org/GraphImage.action?id=36008&size=160) | `GEAnZ[` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35980) | ![](https://hog.grinvin.org/GraphImage.action?id=35980&size=160) | `GEBk^w` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36012) | ![](https://hog.grinvin.org/GraphImage.action?id=36012&size=160) | `GEFCZo` |
@@ -294,7 +294,7 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36111) | ![](https://hog.grinvin.org/GraphImage.action?id=36111&size=160) | `GGuCj{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36026) | ![](https://hog.grinvin.org/GraphImage.action?id=36026&size=160) | `GHJfkW` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36203) | ![](https://hog.grinvin.org/GraphImage.action?id=36203&size=160) | `GHUb]O` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36157) | ![](https://hog.grinvin.org/GraphImage.action?id=36157&size=160) | `GHa|mg` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36157) | ![](https://hog.grinvin.org/GraphImage.action?id=36157&size=160) | `GHa\|mg` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35785) | ![](https://hog.grinvin.org/GraphImage.action?id=35785&size=160) | `GHe]Ns` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35824) | ![](https://hog.grinvin.org/GraphImage.action?id=35824&size=160) | `GHfNH{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35781) | ![](https://hog.grinvin.org/GraphImage.action?id=35781&size=160) | `GHf]Ks` |
@@ -370,13 +370,13 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36057) | ![](https://hog.grinvin.org/GraphImage.action?id=36057&size=160) | `GVSOmc` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36087) | ![](https://hog.grinvin.org/GraphImage.action?id=36087&size=160) | `GVoIfg` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35856) | ![](https://hog.grinvin.org/GraphImage.action?id=35856&size=160) | `GWAAQw` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=21259) | ![](https://hog.grinvin.org/GraphImage.action?id=21259&size=160) | `GWB|Z[` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=21259) | ![](https://hog.grinvin.org/GraphImage.action?id=21259&size=160) | `GWB\|Z[` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35918) | ![](https://hog.grinvin.org/GraphImage.action?id=35918&size=160) | `GWHsIw` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35920) | ![](https://hog.grinvin.org/GraphImage.action?id=35920&size=160) | `GWHsJw` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35775) | ![](https://hog.grinvin.org/GraphImage.action?id=35775&size=160) | `GWVSn_` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35777) | ![](https://hog.grinvin.org/GraphImage.action?id=35777&size=160) | `GWVSng` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35866) | ![](https://hog.grinvin.org/GraphImage.action?id=35866&size=160) | `GW[dUO` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36231) | ![](https://hog.grinvin.org/GraphImage.action?id=36231&size=160) | `GW]@|w` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36231) | ![](https://hog.grinvin.org/GraphImage.action?id=36231&size=160) | `GW]@\|w` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36211) | ![](https://hog.grinvin.org/GraphImage.action?id=36211&size=160) | `GW]Ah{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36213) | ![](https://hog.grinvin.org/GraphImage.action?id=36213&size=160) | `GW]Al{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35832) | ![](https://hog.grinvin.org/GraphImage.action?id=35832&size=160) | `GW]Vuw` |
@@ -390,7 +390,7 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35830) | ![](https://hog.grinvin.org/GraphImage.action?id=35830&size=160) | `GWt{vs` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35834) | ![](https://hog.grinvin.org/GraphImage.action?id=35834&size=160) | `GWu^b{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35840) | ![](https://hog.grinvin.org/GraphImage.action?id=35840&size=160) | `GWu^r{` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35812) | ![](https://hog.grinvin.org/GraphImage.action?id=35812&size=160) | `GWzI|o` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35812) | ![](https://hog.grinvin.org/GraphImage.action?id=35812&size=160) | `GWzI\|o` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35802) | ![](https://hog.grinvin.org/GraphImage.action?id=35802&size=160) | `GW~[m_` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35797) | ![](https://hog.grinvin.org/GraphImage.action?id=35797&size=160) | `GW~{qg` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36051) | ![](https://hog.grinvin.org/GraphImage.action?id=36051&size=160) | `GXAIOo` |
@@ -403,7 +403,7 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36174) | ![](https://hog.grinvin.org/GraphImage.action?id=36174&size=160) | `GZEuD{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35910) | ![](https://hog.grinvin.org/GraphImage.action?id=35910&size=160) | `GZGSd{` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35954) | ![](https://hog.grinvin.org/GraphImage.action?id=35954&size=160) | `G[?T^W` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35956) | ![](https://hog.grinvin.org/GraphImage.action?id=35956&size=160) | `G[?T|W` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35956) | ![](https://hog.grinvin.org/GraphImage.action?id=35956&size=160) | `G[?T\|W` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36147) | ![](https://hog.grinvin.org/GraphImage.action?id=36147&size=160) | `G[@N}w` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36139) | ![](https://hog.grinvin.org/GraphImage.action?id=36139&size=160) | `G[AZqW` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36153) | ![](https://hog.grinvin.org/GraphImage.action?id=36153&size=160) | `G[DSno` |
@@ -425,7 +425,7 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35952) | ![](https://hog.grinvin.org/GraphImage.action?id=35952&size=160) | `G^?T[K` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36045) | ![](https://hog.grinvin.org/GraphImage.action?id=36045&size=160) | `G^?fv[` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36145) | ![](https://hog.grinvin.org/GraphImage.action?id=36145&size=160) | `G^FtbO` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36233) | ![](https://hog.grinvin.org/GraphImage.action?id=36233&size=160) | `G^Sh|C` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36233) | ![](https://hog.grinvin.org/GraphImage.action?id=36233&size=160) | `G^Sh\|C` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35849) | ![](https://hog.grinvin.org/GraphImage.action?id=35849&size=160) | `G^YUTw` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36055) | ![](https://hog.grinvin.org/GraphImage.action?id=36055&size=160) | `G^dP?c` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36115) | ![](https://hog.grinvin.org/GraphImage.action?id=36115&size=160) | ``G^t`So`` |
@@ -436,9 +436,9 @@ We use multiple ways of referencing a graph:
 | 8 | X_{147} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36079) | ![](https://hog.grinvin.org/GraphImage.action?id=36079&size=160) | `GcwXFs` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35944) | ![](https://hog.grinvin.org/GraphImage.action?id=35944&size=160) | `GdAafW` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36143) | ![](https://hog.grinvin.org/GraphImage.action?id=36143&size=160) | `GdKLf[` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35788) | ![](https://hog.grinvin.org/GraphImage.action?id=35788&size=160) | `GdP|pS` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35826) | ![](https://hog.grinvin.org/GraphImage.action?id=35826&size=160) | `GdP|ps` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35842) | ![](https://hog.grinvin.org/GraphImage.action?id=35842&size=160) | `GdR|r{` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35788) | ![](https://hog.grinvin.org/GraphImage.action?id=35788&size=160) | `GdP\|pS` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35826) | ![](https://hog.grinvin.org/GraphImage.action?id=35826&size=160) | `GdP\|ps` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35842) | ![](https://hog.grinvin.org/GraphImage.action?id=35842&size=160) | `GdR\|r{` |
 | 8 | X_{117} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35854) | ![](https://hog.grinvin.org/GraphImage.action?id=35854&size=160) | `GfMvL[` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36188) | ![](https://hog.grinvin.org/GraphImage.action?id=36188&size=160) | `Ggqmlk` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36223) | ![](https://hog.grinvin.org/GraphImage.action?id=36223&size=160) | `GgvBtW` |
@@ -453,16 +453,16 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35806) | ![](https://hog.grinvin.org/GraphImage.action?id=35806&size=160) | `GlBsrO` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36195) | ![](https://hog.grinvin.org/GraphImage.action?id=36195&size=160) | `GldU~c` |
 | 8 | \co{C_8} |  |  | `Gl~Ljk` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35765) | ![](https://hog.grinvin.org/GraphImage.action?id=35765&size=160) | `Gm|Stg` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35765) | ![](https://hog.grinvin.org/GraphImage.action?id=35765&size=160) | `Gm\|Stg` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36043) | ![](https://hog.grinvin.org/GraphImage.action?id=36043&size=160) | `GnEYFK` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36155) | ![](https://hog.grinvin.org/GraphImage.action?id=36155&size=160) | `GpIO~S` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36199) | ![](https://hog.grinvin.org/GraphImage.action?id=36199&size=160) | `GpP~Eo` |
 | 8 | X_{144} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35970) | ![](https://hog.grinvin.org/GraphImage.action?id=35970&size=160) | `GvKBFG` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35836) | ![](https://hog.grinvin.org/GraphImage.action?id=35836&size=160) | `GwvZLS` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35773) | ![](https://hog.grinvin.org/GraphImage.action?id=35773&size=160) | `GxBN|w` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35773) | ![](https://hog.grinvin.org/GraphImage.action?id=35773&size=160) | `GxBN\|w` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35767) | ![](https://hog.grinvin.org/GraphImage.action?id=35767&size=160) | `GxB{u[` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36186) | ![](https://hog.grinvin.org/GraphImage.action?id=36186&size=160) | `GyJTMw` |
-| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35984) | ![](https://hog.grinvin.org/GraphImage.action?id=35984&size=160) | `G|Deq_` |
+| 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35984) | ![](https://hog.grinvin.org/GraphImage.action?id=35984&size=160) | `G\|Deq_` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36010) | ![](https://hog.grinvin.org/GraphImage.action?id=36010&size=160) | `G}HTq_` |
 
 ### proper thinness 4
