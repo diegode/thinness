@@ -1,6 +1,6 @@
 # On the thinness and proper thinness of a graph
 
-This code was written during the research of https://doi.org/10.1016/j.dam.2018.03.072, and it requires a recent version of [SageMath](https://www.sagemath.org/).
+This code was written during the research of https://doi.org/10.1016/j.dam.2018.03.072, and depends on [SageMath](https://www.sagemath.org/) version 9 or later.
 
 The test suite is run via `sage -t *.sage`.
 
@@ -18,7 +18,11 @@ sage: thinness(graphs.PetersenGraph(), random_permutations=1000)
 sage: proper_thinness(graphs.PetersenGraph(), random_permutations=1000)
 (5, [8, 2, 6, 1, 4, 3, 7, 0, 9, 5], [[0, 1], [3, 5], [4, 6], [9, 2], [7, 8]])
 ```
-As you can see, the output by default includes a certificate of the value, i.e. an ordering and a partition of the vertex set. Note that when the `random_permutations` parameter is used, an approximation of the value is performed instead.
+Some comments:
+
+- The output by default includes a certificate of the value, i.e. an ordering and a partition of the vertex set. That can be disabled by passing `certificate = False`.
+- To accelerate the computation you can use the `lower_bound` parameter when you know a lower bound for the (proper) thinness of the graph.
+- When the `random_permutations` parameter is used, an approximation of the value is performed instead of the exact calculation.
 
 ## Classification of small graphs
 
