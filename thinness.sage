@@ -41,7 +41,7 @@ def graphs_by_thinness_precomputed(n=8, *, minimal_only=True):
         True
         sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed(6)[3]]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[3]])
         True
-        sage: len(graphs_by_thinness_precomputed(6, minimal_only=False)[1]) - len(graphs_by_thinness_precomputed(5, minimal_only=False)[1])
+        sage: len([G for G in graphs_by_thinness_precomputed(6, minimal_only=False)[1] if len(G.vertices()) == 6])
         56
     """
     if n > 8:
