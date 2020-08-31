@@ -6,17 +6,17 @@ def graphs_by_thinness(n, *, minimal_only=True):
     TESTS::
 
         sage: {k: len(l) for k, l in graphs_by_thinness(4, minimal_only=False).items()}
-        {1: 3}
-        sage: {k: len(l) for k, l in graphs_by_thinness(5, minimal_only=False).items()}
         {1: 8, 2: 1}
-        sage: {k: len(l) for k, l in graphs_by_thinness(6, minimal_only=False).items()}
+        sage: {k: len(l) for k, l in graphs_by_thinness(5, minimal_only=False).items()}
         {1: 23, 2: 7}
+        sage: {k: len(l) for k, l in graphs_by_thinness(6, minimal_only=False).items()}
+        {1: 79, 2: 62, 3: 1}
         sage: {k: len(l) for k, l in graphs_by_thinness(4).items()}
-        {1: 1}
-        sage: {k: len(l) for k, l in graphs_by_thinness(5).items()}
         {1: 1, 2: 1}
-        sage: {k: len(l) for k, l in graphs_by_thinness(6).items()}
+        sage: {k: len(l) for k, l in graphs_by_thinness(5).items()}
         {1: 1, 2: 2}
+        sage: {k: len(l) for k, l in graphs_by_thinness(6).items()}
+        {1: 1, 2: 5, 3: 1}
         sage: [G for G in _connected_graphs_upto(6) if G.is_interval()] == graphs_by_thinness(6, minimal_only=False)[1]
         True
     """
@@ -30,6 +30,21 @@ def graphs_by_thinness(n, *, minimal_only=True):
                 graphs_dict[k].append(G)
         else:
             graphs_dict[k].append(G)
+    return graphs_dict
+
+def graphs_by_thinness_precomputed():
+    r""" Outputs the same as `graphs_by_thinness(8)` by using precomputed values, excluding the interval graphs.
+
+    TESTS::
+
+        sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed()[2] if len(G.vertices()) <= 6]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[2]])
+        True
+        sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed()[3] if len(G.vertices()) <= 6]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[3]])
+        True
+    """
+    graphs_dict = {}
+    for k in range(2, 5):
+        graphs_dict[k] = _load_graphs_from_csv('data/thinness-{}.csv'.format(k))
     return graphs_dict
 
 def thinness(G, *, lower_bound=1, certificate=True, random_permutations=None):
