@@ -43,10 +43,10 @@ We use multiple ways of referencing a graph:
 | 6 | C_6 |  |  | `EPpO` |
 | 6 | net |  |  | `ESFO` |
 | 6 | S_3 |  |  | `EWlw` |
-| 7 | T_2 |  |  | ``F@`E_`` |
+| 7 | T_2 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=816) | ![](https://hog.grinvin.org/GraphImage.action?id=816&size=160) | ``F@`E_`` |
 | 7 | XF_2^2 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35493) | ![](https://hog.grinvin.org/GraphImage.action?id=35493&size=160) | `FPBdO` |
 | 7 | C_7 |  |  | `FPPSO` |
-| 7 | rising sun |  |  | `FUFTw` |
+| 7 | rising sun | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=1286) | ![](https://hog.grinvin.org/GraphImage.action?id=1286&size=160) | `FUFTw` |
 | 7 | X_{31} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35522) | ![](https://hog.grinvin.org/GraphImage.action?id=35522&size=160) | ``F`gNo`` |
 | 8 | XF_2^3 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35495) | ![](https://hog.grinvin.org/GraphImage.action?id=35495&size=160) | `GD}?@S` |
 | 8 | C_8 |  |  | `GE@cPO` |
