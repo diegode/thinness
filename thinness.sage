@@ -6,17 +6,17 @@ def graphs_by_thinness(n, *, minimal_only=True):
     TESTS::
 
         sage: {k: len(l) for k, l in graphs_by_thinness(4, minimal_only=False).items()}
-        {1: 3}
-        sage: {k: len(l) for k, l in graphs_by_thinness(5, minimal_only=False).items()}
         {1: 8, 2: 1}
-        sage: {k: len(l) for k, l in graphs_by_thinness(6, minimal_only=False).items()}
+        sage: {k: len(l) for k, l in graphs_by_thinness(5, minimal_only=False).items()}
         {1: 23, 2: 7}
+        sage: {k: len(l) for k, l in graphs_by_thinness(6, minimal_only=False).items()}
+        {1: 79, 2: 62, 3: 1}
         sage: {k: len(l) for k, l in graphs_by_thinness(4).items()}
-        {1: 1}
-        sage: {k: len(l) for k, l in graphs_by_thinness(5).items()}
         {1: 1, 2: 1}
-        sage: {k: len(l) for k, l in graphs_by_thinness(6).items()}
+        sage: {k: len(l) for k, l in graphs_by_thinness(5).items()}
         {1: 1, 2: 2}
+        sage: {k: len(l) for k, l in graphs_by_thinness(6).items()}
+        {1: 1, 2: 5, 3: 1}
         sage: [G for G in _connected_graphs_upto(6) if G.is_interval()] == graphs_by_thinness(6, minimal_only=False)[1]
         True
     """
@@ -32,7 +32,35 @@ def graphs_by_thinness(n, *, minimal_only=True):
             graphs_dict[k].append(G)
     return graphs_dict
 
-def thinness(G, *, lower_bound=1, certificate=True):
+def graphs_by_thinness_precomputed(n=8, *, minimal_only=True):
+    r""" Outputs the same as `graphs_by_thinness` by using precomputed values.
+
+    TESTS::
+
+        sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed(6)[2]]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[2]])
+        True
+        sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed(6)[3]]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[3]])
+        True
+        sage: len([G for G in graphs_by_thinness_precomputed(6, minimal_only=False)[1] if len(G.vertices()) == 6])
+        56
+    """
+    if n > 8:
+        raise ValueError('There is no precomputed data for this value of n')
+    input_dict = {}
+    for k in range(2, 5):
+        input_dict[k] = _load_graphs_from_csv('data/thinness-{}.csv'.format(k))
+    output_dict = {}
+    if minimal_only:
+        for k in range(2, 5):
+            output_dict[k] = [G for G in input_dict[k] if len(G.vertices()) <= n]
+    else:
+        for G in _connected_graphs_upto(n):
+            k = _find_lower_bound(G, input_dict)
+            output_dict.setdefault(k, [])
+            output_dict[k].append(G)
+    return output_dict
+
+def thinness(G, *, lower_bound=1, certificate=True, random_permutations=None):
     r""" Calculates the thinness of graph G.
 
     TESTS::
@@ -45,9 +73,11 @@ def thinness(G, *, lower_bound=1, certificate=True):
         2
         sage: thinness(graphs.CycleGraph(7).complement(), certificate=False)
         3
+        sage: thinness(graphs.PetersenGraph(), certificate=False, random_permutations=100)
+        4
     """
     min_chi, min_pi, min_partition = +Infinity, [], []
-    for pi in Permutations(G.vertices()):
+    for pi in _iterate_permutations(G.vertices(), random_permutations):
         H = _thinness_create_restrictions_graph(G, pi)
         partition = H.coloring()
         chi = len(partition)
