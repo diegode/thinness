@@ -32,20 +32,33 @@ def graphs_by_thinness(n, *, minimal_only=True):
             graphs_dict[k].append(G)
     return graphs_dict
 
-def graphs_by_thinness_precomputed():
-    r""" Outputs the same as `graphs_by_thinness(8)` by using precomputed values, excluding the interval graphs.
+def graphs_by_thinness_precomputed(n=8, *, minimal_only=True):
+    r""" Outputs the same as `graphs_by_thinness` by using precomputed values.
 
     TESTS::
 
-        sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed()[2] if len(G.vertices()) <= 6]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[2]])
+        sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed(6)[2]]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[2]])
         True
-        sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed()[3] if len(G.vertices()) <= 6]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[3]])
+        sage: Counter([G.canonical_label() for G in graphs_by_thinness_precomputed(6)[3]]) == Counter([G.canonical_label() for G in graphs_by_thinness(6)[3]])
         True
+        sage: len(graphs_by_thinness_precomputed(6, minimal_only=False)[1]) - len(graphs_by_thinness_precomputed(5, minimal_only=False)[1])
+        56
     """
-    graphs_dict = {}
+    if n > 8:
+        raise ValueError('There is no precomputed data for this value of n')
+    input_dict = {}
     for k in range(2, 5):
-        graphs_dict[k] = _load_graphs_from_csv('data/thinness-{}.csv'.format(k))
-    return graphs_dict
+        input_dict[k] = _load_graphs_from_csv('data/thinness-{}.csv'.format(k))
+    output_dict = {}
+    if minimal_only:
+        for k in range(2, 5):
+            output_dict[k] = [G for G in input_dict[k] if len(G.vertices()) <= n]
+    else:
+        for G in _connected_graphs_upto(n):
+            k = _find_lower_bound(G, input_dict)
+            output_dict.setdefault(k, [])
+            output_dict[k].append(G)
+    return output_dict
 
 def thinness(G, *, lower_bound=1, certificate=True, random_permutations=None):
     r""" Calculates the thinness of graph G.
