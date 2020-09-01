@@ -38,28 +38,28 @@ We use multiple ways of referencing a graph:
 
 | n | name  | HoG | image         | graph6 | notes
 :------------:|:--------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 4 | C_4 |  |  | `C]` |
-| 5 | C_5 |  |  | `DdW` |
-| 6 | C_6 |  |  | `EPpO` |
-| 6 | net |  |  | `ESFO` |
-| 6 | S_3 |  |  | `EWlw` |
+| 4 | C_4 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=674) | ![](https://hog.grinvin.org/GraphImage.action?id=674&size=160) | `C]` |
+| 5 | C_5 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=340) | ![](https://hog.grinvin.org/GraphImage.action?id=340&size=160) | `DdW` |
+| 6 | C_6 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=670) | ![](https://hog.grinvin.org/GraphImage.action?id=670&size=160) | `EPpO` |
+| 6 | net | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=548) | ![](https://hog.grinvin.org/GraphImage.action?id=548&size=160) | `ESFO` |
+| 6 | S_3 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36261) | ![](https://hog.grinvin.org/GraphImage.action?id=36261&size=160) | `EWlw` |
 | 7 | T_2 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=816) | ![](https://hog.grinvin.org/GraphImage.action?id=816&size=160) | ``F@`E_`` |
 | 7 | XF_2^2 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35493) | ![](https://hog.grinvin.org/GraphImage.action?id=35493&size=160) | `FPBdO` |
-| 7 | C_7 |  |  | `FPPSO` |
+| 7 | C_7 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=520) | ![](https://hog.grinvin.org/GraphImage.action?id=520&size=160) | `FPPSO` |
 | 7 | rising sun | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=1286) | ![](https://hog.grinvin.org/GraphImage.action?id=1286&size=160) | `FUFTw` |
 | 7 | X_{31} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35522) | ![](https://hog.grinvin.org/GraphImage.action?id=35522&size=160) | ``F`gNo`` |
 | 8 | XF_2^3 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35495) | ![](https://hog.grinvin.org/GraphImage.action?id=35495&size=160) | `GD}?@S` |
-| 8 | C_8 |  |  | `GE@cPO` |
+| 8 | C_8 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=474) | ![](https://hog.grinvin.org/GraphImage.action?id=474&size=160) | `GE@cPO` |
 | 8 | XF_3^2 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35497) | ![](https://hog.grinvin.org/GraphImage.action?id=35497&size=160) | `GXBdT{` |
 
 ### thinness 3
 
 | n | name  | HoG | image         | graph6 | notes
 :------------:|:--------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 6 | \co{3K_2} |  |  | `E]~o` |
+| 6 | \co{3K_2} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=226) | ![](https://hog.grinvin.org/GraphImage.action?id=2265&size=160) | `E]~o` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35507) | ![](https://hog.grinvin.org/GraphImage.action?id=35507&size=160) | `FWfRo` |
 | 7 | X_{88} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=1306) | ![](https://hog.grinvin.org/GraphImage.action?id=1306&size=160) | `FWnRo` |
-| 7 | \co{C_7} |  |  | `F]fjo` |
+| 7 | \co{C_7} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=710) | ![](https://hog.grinvin.org/GraphImage.action?id=710&size=160) | `F]fjo` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=19170) | ![](https://hog.grinvin.org/GraphImage.action?id=19170&size=160) | `FdZ~o` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35531) | ![](https://hog.grinvin.org/GraphImage.action?id=35531&size=160) | `GCzbzo` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=30360) | ![](https://hog.grinvin.org/GraphImage.action?id=30360&size=160) | `GEAHrG` |
@@ -125,7 +125,7 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35653) | ![](https://hog.grinvin.org/GraphImage.action?id=35653&size=160) | `G_jdzo` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35613) | ![](https://hog.grinvin.org/GraphImage.action?id=35613&size=160) | `Gd\|b\|g` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35611) | ![](https://hog.grinvin.org/GraphImage.action?id=35611&size=160) | `Gd\|dng` |
-| 8 | \co{C_8} |  |  | `Gfynjw` |
+| 8 | \co{C_8} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36263) | ![](https://hog.grinvin.org/GraphImage.action?id=36263&size=160) | `Gfynjw` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35582) | ![](https://hog.grinvin.org/GraphImage.action?id=35582&size=160) | `GkD~Tk` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35615) | ![](https://hog.grinvin.org/GraphImage.action?id=35615&size=160) | `Gl{s~K` |
 
@@ -139,22 +139,22 @@ We use multiple ways of referencing a graph:
 
 | n | name  | HoG | image         | graph6 | notes
 :------------:|:--------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 4 | claw |  |  | `CF` |
-| 4 | C_4 |  |  | `C]` |
-| 5 | C_5 |  |  | `DkK` |
-| 6 | net |  |  | `EPb_` |
-| 6 | S_3 |  |  | `EPxw` |
-| 6 | C_6 |  |  | `EWdO` |
-| 7 | C_7 |  |  | ``F`IQO`` |
-| 8 | C_8 |  |  | `GOKUAG` |
+| 4 | claw | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=500) | ![](https://hog.grinvin.org/GraphImage.action?id=500&size=160) | `CF` |
+| 4 | C_4 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=674) | ![](https://hog.grinvin.org/GraphImage.action?id=674&size=160) | `C]` |
+| 5 | C_5 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=340) | ![](https://hog.grinvin.org/GraphImage.action?id=340&size=160) | `DkK` |
+| 6 | net | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=548) | ![](https://hog.grinvin.org/GraphImage.action?id=548&size=160) | `EPb_` |
+| 6 | S_3 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36261) | ![](https://hog.grinvin.org/GraphImage.action?id=36261&size=160) | `EPxw` |
+| 6 | C_6 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=670) | ![](https://hog.grinvin.org/GraphImage.action?id=670&size=160) | `EWdO` |
+| 7 | C_7 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=520) | ![](https://hog.grinvin.org/GraphImage.action?id=520&size=160) | ``F`IQO`` |
+| 8 | C_8 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=474) | ![](https://hog.grinvin.org/GraphImage.action?id=474&size=160) | `GOKUAG` |
 
 ### proper thinness 3
 
 | n | name  | HoG | image         | graph6 | notes
 :------------:|:--------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 6 | twin-C_5 |  |  | ``EF`g`` |
-| 6 | \co{butterfly \cup K_1} |  |  | `EW~G` |
-| 6 | \co{3K_2} |  |  | `E]~o` |
+| 6 | twin-C_5 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=898) | ![](https://hog.grinvin.org/GraphImage.action?id=898&size=160) | ``EF`g`` |
+| 6 | \co{butterfly \cup K_1} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=21169) | ![](https://hog.grinvin.org/GraphImage.action?id=21169&size=160) | `EW~G` |
+| 6 | \co{3K_2} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=226) | ![](https://hog.grinvin.org/GraphImage.action?id=226&size=160) | `E]~o` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35515) | ![](https://hog.grinvin.org/GraphImage.action?id=35515&size=160) | `F?NuW` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35509) | ![](https://hog.grinvin.org/GraphImage.action?id=35509&size=160) | `F?}Bw` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=868) | ![](https://hog.grinvin.org/GraphImage.action?id=868&size=160) | `FBYNO` |
@@ -183,7 +183,7 @@ We use multiple ways of referencing a graph:
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35694) | ![](https://hog.grinvin.org/GraphImage.action?id=35694&size=160) | `FRBm?` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35696) | ![](https://hog.grinvin.org/GraphImage.action?id=35696&size=160) | `FRBmG` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35709) | ![](https://hog.grinvin.org/GraphImage.action?id=35709&size=160) | `FSFVO` |
-| 7 | \co{S_3 \cup K_1} |  |  | `FSFVw` |
+| 7 | \co{S_3 \cup K_1} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36265) | ![](https://hog.grinvin.org/GraphImage.action?id=36265&size=160) | `FSFVw` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35705) | ![](https://hog.grinvin.org/GraphImage.action?id=35705&size=160) | `FUBjO` |
 | 7 | X_{36} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35700) | ![](https://hog.grinvin.org/GraphImage.action?id=35700&size=160) | `FUFFO` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35702) | ![](https://hog.grinvin.org/GraphImage.action?id=35702&size=160) | `FUFmG` |
@@ -195,9 +195,9 @@ We use multiple ways of referencing a graph:
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35745) | ![](https://hog.grinvin.org/GraphImage.action?id=35745&size=160) | `FVomg` |
 | 7 | \co{X_{88}} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=536) | ![](https://hog.grinvin.org/GraphImage.action?id=536&size=160) | ``FW`\_`` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35738) | ![](https://hog.grinvin.org/GraphImage.action?id=35738&size=160) | `FWdzo` |
-| 7 | BW_3 |  |  | `FWfQ_` |
+| 7 | BW_3 | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=27022) | ![](https://hog.grinvin.org/GraphImage.action?id=27022&size=160) | `FWfQ_` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=21254) | ![](https://hog.grinvin.org/GraphImage.action?id=21254&size=160) | `FWf}g` |
-| 7 | co-eiffeltower |  |  | `FWnzo` |
+| 7 | co-eiffeltower | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36267) | ![](https://hog.grinvin.org/GraphImage.action?id=36267&size=160) | `FWnzo` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35756) | ![](https://hog.grinvin.org/GraphImage.action?id=35756&size=160) | `FWn}g` |
 | 7 | X_{46} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35740) | ![](https://hog.grinvin.org/GraphImage.action?id=35740&size=160) | `FWrv_` |
 | 7 | \co{X_{127}} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35730) | ![](https://hog.grinvin.org/GraphImage.action?id=35730&size=160) | `FWvNo` |
@@ -212,8 +212,8 @@ We use multiple ways of referencing a graph:
 | 7 | X_{11} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35758) | ![](https://hog.grinvin.org/GraphImage.action?id=35758&size=160) | `FXvMg` |
 | 7 | \co{X_{173}} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35665) | ![](https://hog.grinvin.org/GraphImage.action?id=35665&size=160) | `FZfmO` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35726) | ![](https://hog.grinvin.org/GraphImage.action?id=35726&size=160) | `F\BHw` |
-| 7 | \co{C_6 \cup K_1} |  |  | `F\p^w` |
-| 7 | \co{C_7} |  |  | `F^fJW` |
+| 7 | \co{C_6 \cup K_1} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=21193) | ![](https://hog.grinvin.org/GraphImage.action?id=21193&size=160) | `F\p^w` |
+| 7 | \co{C_7} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=710) | ![](https://hog.grinvin.org/GraphImage.action?id=710&size=160) | `F^fJW` |
 | 7 | X_{90} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=20566) | ![](https://hog.grinvin.org/GraphImage.action?id=20566&size=160) | `FbmnG` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35711) | ![](https://hog.grinvin.org/GraphImage.action?id=35711&size=160) | `FckVW` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35761) | ![](https://hog.grinvin.org/GraphImage.action?id=35761&size=160) | `Fd\|f_` |
@@ -452,7 +452,7 @@ We use multiple ways of referencing a graph:
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35791) | ![](https://hog.grinvin.org/GraphImage.action?id=35791&size=160) | `GkFh^o` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35806) | ![](https://hog.grinvin.org/GraphImage.action?id=35806&size=160) | `GlBsrO` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36195) | ![](https://hog.grinvin.org/GraphImage.action?id=36195&size=160) | `GldU~c` |
-| 8 | \co{C_8} |  |  | `Gl~Ljk` |
+| 8 | \co{C_8} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36263) | ![](https://hog.grinvin.org/GraphImage.action?id=36263&size=160) | `Gl~Ljk` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35765) | ![](https://hog.grinvin.org/GraphImage.action?id=35765&size=160) | `Gm\|Stg` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36043) | ![](https://hog.grinvin.org/GraphImage.action?id=36043&size=160) | `GnEYFK` |
 | 8 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=36155) | ![](https://hog.grinvin.org/GraphImage.action?id=36155&size=160) | `GpIO~S` |
