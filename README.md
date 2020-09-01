@@ -1,6 +1,8 @@
 # On the thinness and proper thinness of a graph
 
-This code was written during the research of https://doi.org/10.1016/j.dam.2018.03.072, and depends on [SageMath](https://www.sagemath.org/) version 9 or later.
+This code was written during the research of [BD19](https://doi.org/10.1016/j.dam.2018.03.072), and depends on [SageMath](https://www.sagemath.org/) version 9 or later.
+
+# How to use
 
 The test suite is run via `sage -t *.sage`.
 
@@ -34,4 +36,10 @@ We use multiple ways of referencing a graph:
 - We uploaded all of these graphs to [The House of Graphs](https://hog.grinvin.org/), so the link is given.
 - We provide a graph6 code for the graph, for a vertex labelling corresponding to an optimal (proper) thin representation.
 
-See the list of minimal graphs for each [thinness](small-graphs-thinness.md) and [proper thinness](small-graphs-proper-thinness.md) value.
+See the list of minimal graphs for each [thinness](small-graphs-thinness.md) and [proper thinness](small-graphs-proper-thinness.md) value. All this data is available [in CSV format too](data/).
+
+## Algorithms
+
+These algorithms are proven correct in Theorem 2 of [BD19](https://doi.org/10.1016/j.dam.2018.03.072). The current implementation uses a graph coloring algorithm for general graphs, which runs in exponential time. This is suboptimal, because the graph to be colored is a co-comparability graph and so can be colored in polynomial time.
+
+In order to make it useful for larger graphs, we should switch to a polynomial time algorithm, e.g. the one of [G77](https://doi.org/10.1007/BF02253207).
