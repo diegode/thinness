@@ -2,7 +2,7 @@
 
 This code was written during the research of [BD19](https://doi.org/10.1016/j.dam.2018.03.072), and depends on [SageMath](https://www.sagemath.org/) version 9 or later.
 
-# How to use
+## How to use
 
 The test suite is run via `sage -t *.sage`.
 
