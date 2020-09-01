@@ -56,7 +56,7 @@ We use multiple ways of referencing a graph:
 
 | n | name  | HoG | image         | graph6 | notes
 :------------:|:--------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 6 | \co{3K_2} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=226) | ![](https://hog.grinvin.org/GraphImage.action?id=2265&size=160) | `E]~o` |
+| 6 | \co{3K_2} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=226) | ![](https://hog.grinvin.org/GraphImage.action?id=226&size=160) | `E]~o` |
 | 7 | n/a | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=35507) | ![](https://hog.grinvin.org/GraphImage.action?id=35507&size=160) | `FWfRo` |
 | 7 | X_{88} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=1306) | ![](https://hog.grinvin.org/GraphImage.action?id=1306&size=160) | `FWnRo` |
 | 7 | \co{C_7} | [link](https://hog.grinvin.org/ViewGraphInfo.action?id=710) | ![](https://hog.grinvin.org/GraphImage.action?id=710&size=160) | `F]fjo` |
