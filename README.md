@@ -33,7 +33,7 @@ We classified all connected graphs of up to 8 vertices with respect to their thi
 We use multiple ways of referencing a graph:
 
 - When available, we show the name from [ISGCI "smallgraphs" website](https://www.graphclasses.org/smallgraphs.html).
-- We uploaded all of these graphs to [The House of Graphs](https://hog.grinvin.org/), so the link is given.
+- We uploaded all of these graphs to [The House of Graphs](https://houseofgraphs.org), so the link is given.
 - We provide a graph6 code for the graph, for a vertex ordering corresponding to an optimal (proper) thin representation.
 
 See the list of minimal graphs for each [thinness](small-graphs-thinness.md) and [proper thinness](small-graphs-proper-thinness.md) value. All this data is available [in CSV format too](data/).
